@@ -3,7 +3,7 @@ Open Api Swagger 3 for Yii2 Framework
 
 Requirements
 ------------
- - PHP 7.1
+ - PHP 7.4
  - Yii2 Framework
 
 Installation
